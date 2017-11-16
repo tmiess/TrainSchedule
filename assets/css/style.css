@@ -1,0 +1,21 @@
+.formden_header h2,
+.formden_header p,
+form {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black
+}
+
+.bootstrap-iso form button,
+.bootstrap-iso form button:hover {
+    color: white !important;
+}
+
+.asteriskField {
+    color: red;
+}
+
+h4 {
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black
+}
